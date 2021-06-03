@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle to Freinds [sic] by G.F. 1670.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40194</idno><idno type="EEBO-CITATION">12244536</idno>
+  <idno type="VID">56887</idno>
+  <idno type="EEBO-PROQUEST">2240961181</idno>
+  
+            <idno type="STC">Wing F1828</idno>
+            <idno type="STC">ESTC R31680</idno>
+            <idno type="OCLC">12244536</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56887)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle to Freinds [sic] by G.F. 1670.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: print showthrough with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+               <term type="topical_term">Christian life --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:56887:1"/>
+            <pb n="1" facs="tcp:56887:1"/>
+            <head>A General Epistle to Freinds by <hi>G. F.</hi> 1670.</head>
+            <opener>
+               <salute>All Friends every where.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ho are Friends of Christ the Heavenly Man, him by whom the World was made, and so are become Friends of God through Christ Jesus, who are quickned by Jesus and made alive by him who was dead in Old <hi>Adam,</hi> and made alive by the second <hi>Adam,</hi> and have drunk his blood through which you have life, and by which you come from among the con<g ref="char:EOLhyphen"/>gregation of the dead, who talk of his blood and his flesh.</p>
+            <p>And so now gathered in the Name of Jesus who hath made you alive, yea in the Name of him whose blood you have drunk, yea the Heavenly man which is his Life, and so are come out of your native Counirey, Religions and Worships, and left that old Stuff behind, who are gotten a top of the old House, and will not go down again to fetch any of the old Stuff. So <hi>I</hi> say ye that are ga<g ref="char:EOLhyphen"/>therod in the name of Jesus the heavenly man, out of old <hi>Adam,</hi> and made alive by the heavenly Man, keep your Meetings in the name of Jesus.</p>
+            <p>Then it is he that is persecuted, if you be persecuted, and he that suffers, for in all your afflictions and sufferings he is with you, who are made alive by him, and hath drunk his blood, and so are come to be faithful witnesses of Christ Jesus, all that are made alive are, and have drunk his blood, for they that have not drunk his blood, and made alive by him are no true witnesses of Christ Jesus. And so therefore now you that the Lord hath gathered, and sought and searched out, who have been scattered in this cloudy dark day, since the Apostles days of Light, and have been made a prey upon by the Hirelings and Shepherds, and have been left to the Wolves by the flying of the Hirelings, whom you thought had been true
+<pb n="2" facs="tcp:56887:2"/>men, and now the Lord hath sought and searched and found and ga<g ref="char:EOLhyphen"/>thered you from their mouths to whose mouths you have been a prey, and now the Lord to feed you a top of the mountains with his heavenly bread and set one Shepherd over you the heavenly man who lives for ever, and is the Shepherd over all the living, that are made alive by him, and so the Lord hath the glory of seeking of ga<g ref="char:EOLhyphen"/>thering out of the wildernesses, pits, groves and ditches of old <hi>A<g ref="char:EOLhyphen"/>dam</hi> and the serpent with his brambles and bryers, and so Christ by whom the world was made, is the rest of the living that he hath made alive, &amp; is the shepherd to feed them with life, &amp; the springs of Life, and is the Bishop of their Souls that doth oversee them that they do not go out of the pastures of life, and from the Springs of life, or the fold of life, and therefore it is a glorious pasture, to be fed a top of all the mountains in the life, in the pastures of life, with the living Shepherd, and to be overseen with the living Bishop and to be sanctified, and to be presented to God with the living priest, and to be counselled with the living counsellour of ever<g ref="char:EOLhyphen"/>lasting Salvation, and of a Kingdom, and of a World, and an in<g ref="char:EOLhyphen"/>heritance that hath no end, and of an everlasting Priest, that sancti<g ref="char:EOLhyphen"/>fies and offers you to God without spot or wrinkle, a perfect offe<g ref="char:EOLhyphen"/>ring who purges your consciences and hearts with his blood, that you may serve the living God, and not the dead works among the dead.</p>
+            <p>And that now you should have an everlasting preacher whom God hath anointed to preach and an everlasting Minister that mi<g ref="char:EOLhyphen"/>nisters grace and life, and salvation, and truth to you an everlasting Prophet that God hath raised up who is to be heard, all the living hears him, but the dead talks but of the fame, so none can silence stop vhe mouth or take away your Shepherd, your Bishop, your minister, your preacher, your Prophet, your counsellor, <hi>&amp;c.</hi> And therefore let him have all your ears, to hearken to him let him be set up who was set up from everlasting to everlasting by God, and all the Righteous, Christ Jesus who is your possession being heirs
+<pb n="3" facs="tcp:56887:2"/>of him by which all the living are alive by him, and so in him live Christ Jesus by whom the world was made Christ Iesus before old <hi>Adam</hi> was glorified with the Father before the World began. So in Christ the heavenly man you have rest, but in Old <hi>Adam</hi> the transgression you have no rest for there is the wilderness <hi>Sodom</hi> and <hi>Egypt Babylon</hi> and confusion. God blessed <hi>Abraham</hi> in his obey<g ref="char:EOLhyphen"/>ing of his commands when he went from his Native country and re<g ref="char:EOLhyphen"/>lations, ye and made him a prince, So they that are redeemed out of Kindreds and tongues, Christ makes princes; to overcome the prince of darkness.</p>
+            <p>And <hi>Abraham</hi> was to walk before God who was perfect, and he was to be perfect, so must all who be of the Faith and children of <hi>Abraham, Abraham</hi> saw Christs day and did rejoyce, but thou<g ref="char:EOLhyphen"/>sands now come to injoy the day that <hi>Abraham</hi> saw.</p>
+            <p>The outward <hi>Jews</hi> eat of the Manna in the wilderness, and diso<g ref="char:EOLhyphen"/>beyed and perished, but they that eat of the flesh of Christ, and drink his blood have life everlasting, and this gives an eternal life, by which they come to an eternal possession and to the Land of the living, as the outward <hi>Iews</hi> came to possess the Land of <hi>Canaan,</hi> and so you that be heirs of Christ the heavenly man, and comes to possess him, that he hath made alive, stand fast, now is your time to stand, stand in the life, before death, or the King of it was, stand in the light before darkness or the Prince of it was, and stand in the power of God which is before the Devil was, and sit down in Christ Iesus who was set up from everlasting to everlasting.</p>
+            <p>For when the <hi>Presbyterians</hi> raised up a Synod of High Priests, did not God raise up his Synod by his eternal power, that tryed the tryers &amp; Priests and them which they tryed &amp; how were they tryed were they not tryed by the mouth, and so did they not all appear like raging waves of the sea.</p>
+            <pb n="4" facs="tcp:56887:3"/>
+            <p>Both tryed and t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yers, and the Lord raised up his Synod to try them in his eternal power which before the Devil was, and then what spoiling of goods did they make, and was not all the goods they spoyled like unto the ark of God did it not throw down the <hi>Presby<g ref="char:EOLhyphen"/>terians, Independants and Baptists, Dagon,</hi> their Easter Reckonings, Midsummer dews, Tyths and Gleab Lands, that they quite lost their <hi>Dagon,</hi> and therefore keep your faith in the Lord, for he is the same who hath given Dominion, through Faith over the moun<g ref="char:EOLhyphen"/>tains by which they have been subdued and by which the fiery darts have been quenched: and hath not this been fulfilled in all their afflictions he is afflicted, and the angel of his presence should be with them in their tryals and sufferings, so the Lord hath a tender care of his Sheep, his people that the angel of his presence should be with them in their tryals, and therefore let your minds be out of all outward things and visibles, and fear not the fleece for it will grow again, for if the Lord should try you now with outward things, after he hath blessed you to see, whether your minds be with them or with him, and therefore now to stand having the whole armor of God his Righteousness, your Feet shod with the power of God before the Devil was, this will keep you from slipping, and the armour of Light to stand against darkness, and the Breast plate of Righteousness, which is armour proof, a<g ref="char:EOLhyphen"/>gainst the Divil and his fiery darts and keep in the faith, the Shield, and Sword, of the Spirit, the word of God, and the Helmet of Sal<g ref="char:EOLhyphen"/>vation, that preserves the head in all Battles with the Divil and his Instruments.</p>
+            <p>And thus with your Heavenly Armour and Arms stand and keep your possession of life who are brought out of spiritual <hi>Egypt Sodom</hi> and <hi>Babylon</hi> and have one to go before the Captain of your salvati<g ref="char:EOLhyphen"/>on Christ Jesus which is before <hi>Moses</hi> and <hi>Joshua</hi> and see how the children of God all along in the Scriptures had victory <hi>Daniel by faith, the three Children by faith, Abraham by fatth, Joshua by faith, and Caleb by faith,</hi> and the other spies which had not faith and the Elders among the outward <hi>Jews</hi> and the people how they fell
+<pb n="5" facs="tcp:56887:3"/>through unbelief for by faith they were saved, by faith they had victory, and by faith they pleased God, and therefore keep in the faith, &amp; you will have the Water of Life, &amp; the Bread of Life, from above, and stand still in the faith, for the just lives by the faith, for they that had not faith, to believe they perished, and Christ hath tought all how to believe, <hi>who hath enlightened every one that com<g ref="char:EOLhyphen"/>meth into the World</hi> he saith <hi>believe in the Light,</hi> which was a blessed Doctrine of the Heavenly man for you believing in the light you believe in that which makes manifest all things, all fruits, all crea<g ref="char:EOLhyphen"/>tures, always all religions and worships for the light was before they all were, and will be when they are all gone therefore <hi>believe in the light</hi> saith the heavenly man who teacheth what to believe in for whatsoever is made manifest, is made manifest by the light so to believe in the light that doth make manifest all things that are re<g ref="char:EOLhyphen"/>provable and therein you will become children of the light, and children of the day, and Sons of God, and Daughters of God, and sons of <hi>Sion,</hi> and Daughters of <hi>Soin</hi> the heavenly <hi>Sion</hi> the heavenly <hi>Joy</hi> and so herein you become the Royal Family above all the Families of the earth above all the housholds of the earth an houshold of God, the workmanship of God, the planting of God the building of God, the houshold of Faith which are titles higher titles then all the titles among men in the World in the creation Sons and daughters and servants and hand maids every man to have somthing to the Old man and the Young man.</p>
+            <p>Every one to have an Inheritance of their own of life that they may offer to God of their heavenly substance who are called a Royal Priesthood that is a Kingly Priesthood over the Divil and over <hi>Adam</hi> in a Possession of a spiritual Kingdom; and of a world that hath no end, and an Heavenly durable substance and riches which is spiritual and so to offer with spiritual sacrifices to God who is a Spirit.</p>
+            <p>So now the time of trying is for all to stand, and see if there be any thing able to separate you from Christ, who is from everlasting to everlasting, who is first and last who makes an end of sin, and
+<pb n="6" facs="tcp:56887:4"/>finishes transgression and destroyes the devil and his works, the top and corner stone, the possession of all the Righteous, the rest and Sabath of all the Righteous that hath drunken his blood who he hath made alive, so in <hi>Christ you shall bear no burthen,</hi> for he destroys that which burthens both man and beast, and in Christ you shall not go out to gather your meat, your Sabbath, and Rest, and in old <hi>Adam</hi> there is no rest, in the second <hi>Adam</hi> the heavenly man there is the rest, and in him, to wit Christ, the heavenly man, you need no go out to gather your meat.</p>
+            <p>For he is the <hi>bread of Life that comes down from above</hi> in him, stand in him, fit down in the heavenly places in Christ Jesus, who was with the father before the World began, who is your way to God, which way was set up above sixteen hundred years since, before all these got up among al the <hi>Baptists</hi> and <hi>Protestants,</hi> who is the new and and living way to all the living who is made alive by him and drunk his blood, The dead makes dead ways for the dead to serve and follow, mind his worship, Christs worship, which was set up above sixteen hundred years since, by himself in the Spirit and truth, whereby every one comes to the truth in his own, the spirit of God in his own heart in which truth and spirit he worships the God of truth, and God who is a spirit, and feels him always pre<g ref="char:EOLhyphen"/>sent, to woaship God in the truth is that which the devil and ol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Adam</hi> is out of, and this is the perfect and standing worship, and people that have lost this worship that Christ set up, they have set up so many Worships among <hi>Protestants</hi> and <hi>Papists</hi> and compelling one another to them, since they have lost the peaceable truth in which the God of peace is worshipped.</p>
+            <p>And therefore now all prize the standing truth, and walk, as be comes the truth the Gospel the power of God, before the Devil was, and in Christ Jesus as I said before which destroys the Devil and his Works, and so stand fast in the liberty where with Christ hath made you free, yea free from the Devil and old <hi>Adam,</hi> for the freedom is in him in Christ, and not in the Devil who is out of truth
+<pb n="7" facs="tcp:56887:4"/>nor in old <hi>Adam,</hi> yea Christ is able to deliver out of the six trou<g ref="char:EOLhyphen"/>bles, and the seventh trouble, the perfection of trouble, he who is perfection it self, so he is the deliverer and Mediator, and the in<g ref="char:EOLhyphen"/>tercessor, that makes the peace betwixt you and Ood, so in Christ who is the deliverer is the peace and the rest, yea, an everlasting rest, he was set up over all troubles and persecutions, and persecu<g ref="char:EOLhyphen"/>tors who was before they were, glorified with the Father before the world began, and he will be when they are all gone, as I said, before all that have drunk his blood, and made alive by him, have life, yea a possession that wil never have an end, for them that be dead in <hi>Adam</hi> was ever against Christ who is life, till he make them alive and do believe in the light, for there is a congregation of the li<g ref="char:EOLhyphen"/>ving.</p>
+            <p>And the congregation of the dead and is them that are gathered together by the Lord, and there are tham that are gathered toge<g ref="char:EOLhyphen"/>ther not by the Lord but by men to themselves, and then they are scattered, now the congregation of the living they have drunk the blood of Jesus, and are alive by him, and so gathered together by him the heavenly man, and he is in the midst of them to preserve them and exercise his offices among them, as a Shepherd and a Bishop, and a Prophet, <hi>&amp;c,</hi>
+            </p>
+            <p>And these be the living members who have a living head Christ Jesus, and that saying comes to be fulfilled thy dead body shall live with my body so come to live with Christ Jesus, and there the congregation of the dead, that believes not in the light nor drinks the blood of Jesus, but death and destruction talks of him, and God and his Prophets and Apostles, and they come to set their house upon the Sand and Sea-shore and so are the fools and then a storm arises upon the Sea, and their house is presently in the sea a<g ref="char:EOLhyphen"/>gain,
+<pb n="8" facs="tcp:56887:5"/>and they are drowned the house sits so nigh the sea, that in a little storm they are drowned, they are so nigh the world, but the wise men sets their house upon the Rock and the Rock is Christ the Life which was before the World was and will stand when the World is gone, over all the storms and tempests, they cannot move the Rock nor the House, so here is the wisdom of the wise, by which all things were created who build their house upon him, by which all things were created who is the Rock of Ages, so in all storms they keep their house, and they meet in him, and are gathe<g ref="char:EOLhyphen"/>red in him, and he is their head and counsellour, to order them and in him they all please God and in Christ Jesus are one ano<g ref="char:EOLhyphen"/>thers Crown and Life, and so through him they have all a Crown of Life who was with the Father before the World began so in him fit down over all the Windy doctrine that tosses the chaff abroad in the world.</p>
+            <p>I say in Christ sit down who before the World was, for out of him all wearysomness but in him ye have rest.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:56887:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
